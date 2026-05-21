@@ -453,7 +453,7 @@ export default function PrivacyPolicyFull() {
                   lineHeight: '1.7',
                 }}
               >
-                At DocHyve ("DocHyve," "we," "us," or "our"), your privacy is a
+                At DocHyve (&quot;DocHyve,&quot; &quot;we,&quot; &quot;us,&quot; or &quot;our&quot;), your privacy is a
                 top priority. This Privacy Policy explains how we collect, use,
                 and safeguard your personal information when you use our
                 service-based websites and applications (Collectively, the
@@ -555,7 +555,7 @@ export default function PrivacyPolicyFull() {
                   />
                   <span>
                     Our Terms of Use, which incorporates this Privacy Policy
-                    (the "Agreement").
+                    (the &quot;Agreement&quot;).
                   </span>
                 </li>
               </ul>
@@ -1126,7 +1126,7 @@ export default function PrivacyPolicyFull() {
                   marginBottom: '24px',
                 }}
               >
-                DocHyve's security practices are designed to meet or exceed the
+                DocHyve&apos;s security practices are designed to meet or exceed the
                 standards expected under HIPAA, HITECH, and applicable state
                 data security laws.
               </Paragraph>
@@ -1330,7 +1330,7 @@ export default function PrivacyPolicyFull() {
                 }}
               >
                 Under the CCPA, California residents have specific rights
-                regarding their data. While DocHyve does not sell Users'
+                regarding their data. While DocHyve does not sell Users&apos;
                 information for money, we do share Cookies for cross-contextual
                 behavioral advertising.
               </Paragraph>
@@ -1423,7 +1423,7 @@ export default function PrivacyPolicyFull() {
                 }}
               >
                 To exercise your privacy rights under the CCPA or other state
-                laws, you can submit a "Valid Request" that provides enough
+                laws, you can submit a &quot;Valid Request&quot; that provides enough
                 information to verify your identity.
               </Paragraph>
               <Title level={4} style={{ color: '#111827', fontWeight: 700 }}>
@@ -1454,7 +1454,7 @@ export default function PrivacyPolicyFull() {
                   />
                   <span>
                     <strong>DocHyve Account Holders:</strong> Access, delete, or
-                    correct your personal data via the "Privacy" tab in account
+                    correct your personal data via the &quot;Privacy&quot; tab in account
                     settings.
                   </span>
                 </li>
@@ -1474,7 +1474,7 @@ export default function PrivacyPolicyFull() {
                   />
                   <span>
                     <strong>All Users:</strong> Opt out of targeted advertising
-                    by visiting "Your Privacy Choices" at the bottom of our
+                    by visiting &quot;Your Privacy Choices&quot; at the bottom of our
                     website.
                   </span>
                 </li>
@@ -1579,7 +1579,7 @@ export default function PrivacyPolicyFull() {
                         fontSize: '14px',
                       }}
                     >
-                      with the subject line "HIPAA Inquiry" or "Security
+                      with the subject line &quot;HIPAA Inquiry&quot; or "Security
                       Incident".
                     </span>
                   </div>
