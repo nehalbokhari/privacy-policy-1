@@ -224,6 +224,7 @@ export default function PrivacyPolicyFull() {
     <ConfigProvider
       theme={{ token: { fontFamily: "'Montserrat', sans-serif" } }}
     >
+      {/* 1. Inject Montserrat via standard HTML link in the Next.js Head */}
       <Head>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link
@@ -257,9 +258,12 @@ export default function PrivacyPolicyFull() {
           }}
         >
           <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+            {/* Header Logo Placeholder */}
             <img src="icons/logo-dark.svg" alt="DocHyve Logo" height={32} />
           </div>
 
+          {/* Note: React inline styles do not support Media Queries. 
+              Usually handled via CSS classes or conditional rendering in React */}
           <Space
             size="large"
             style={{
@@ -344,6 +348,7 @@ export default function PrivacyPolicyFull() {
               protect your personal information.
             </Paragraph>
           </div>
+          {/* Hero Illustration Placeholder */}
           <div
             style={{
               width: '400px',
