@@ -457,7 +457,7 @@ export default function PrivacyPolicyFull() {
                 top priority. This Privacy Policy explains how we collect, use,
                 and safeguard your personal information when you use our
                 service-based websites and applications (Collectively, the
-                "Services").
+                &quot;Services&quot;).
               </Paragraph>
               <Paragraph style={{ fontSize: '16px', color: '#4b5563' }}>
                 This Privacy Policy applies to:
@@ -1579,8 +1579,8 @@ export default function PrivacyPolicyFull() {
                         fontSize: '14px',
                       }}
                     >
-                      with the subject line &quot;HIPAA Inquiry&quot; or "Security
-                      Incident".
+                      with the subject line &quot;HIPAA Inquiry&quot; or &quot;Security
+                      Incident&quot;.
                     </span>
                   </div>
                 </li>
