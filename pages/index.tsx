@@ -1,4 +1,8 @@
+/* eslint-disable @next/next/no-img-element */
 'use client';
+
+import React from 'react';
+// ... rest of your code
 
 import React from 'react';
 import Head from 'next/head';
